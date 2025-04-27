@@ -48,3 +48,6 @@ if __name__ == "__main__":
 
     for result in results:
         print(result)
+
+#  cd task2
+#  python task2.py circle.txt points.txt

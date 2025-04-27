@@ -26,3 +26,6 @@ if __name__ == "__main__":
     result = find_path(n, m)
 
     print(result)
+
+#  cd task1
+#  python task1.py 5 4

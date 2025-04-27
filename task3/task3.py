@@ -40,3 +40,6 @@ if __name__ == "__main__":
     report_file = sys.argv[3]
 
     main(values_file, tests_file, report_file)
+
+#  cd task3
+#  python task3.py values.json tests.json reports.json

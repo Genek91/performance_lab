@@ -39,3 +39,6 @@ if __name__ == "__main__":
     result = min_number_steps(numbers)
 
     print(result)
+
+#  cd task4
+#  python task4.py numbers.txt
